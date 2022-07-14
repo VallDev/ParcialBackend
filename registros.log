@@ -1,0 +1,105 @@
+[2022-03-19 19:06:47] [ INFO ] [OdontologoServiceTest:17] Iniciando carga de datos
+[2022-03-19 19:06:49] [ INFO ] [OdontologoServiceTest:22] Conexion exitosa desde test cargando datos
+[2022-03-19 19:06:49] [ INFO ] [OdontologoServiceTest:30] Conexion cerrada exitosamente en test cargando datos
+[2022-03-19 19:06:49] [ INFO ] [OdontologoServiceTest:41] Iniciando prueba de guardado y busqueda de odontologo
+[2022-03-19 19:06:49] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-19 19:06:49] [ INFO ] [OdontologoDAOH2:121] Nuevo odontologo guardado exitosamente
+[2022-03-19 19:06:49] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:43] Conexion cerrada exitosamente
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:129] Odontologo encontrado exitosamente
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:72] Conexion cerrada exitosamente
+[2022-03-19 19:06:50] [ INFO ] [OdontologoServiceTest:55] Prueba de guardado y busqueda de odontologo terminada
+[2022-03-19 19:06:50] [ INFO ] [OdontologoServiceTest:60] Iniciando prueba de listado de todos los odontologos
+[2022-03-19 19:06:50] [ INFO ] [OdontologoServiceTest:70] Conexion exitosa desde test prueba listar todos odontologos
+[2022-03-19 19:06:50] [ INFO ] [OdontologoServiceTest:82] Conexion cerrada exitosamente desde test prueba listar todos odontologos
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:150] Se consultaron la cantidad de filas totales de odontologos
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-19 19:06:50] [ INFO ] [OdontologoDAOH2:100] Conexion cerrada exitosamente
+[2022-03-19 19:06:50] [ INFO ] [OdontologoServiceTest:91] Prueba de busqueda de todos odontologos terminada
+[2022-03-19 19:17:43] [ INFO ] [OdontologoServiceTest:17] Iniciando carga de datos
+[2022-03-19 19:17:44] [ INFO ] [OdontologoServiceTest:22] Conexion exitosa desde test cargando datos
+[2022-03-19 19:17:44] [ INFO ] [OdontologoServiceTest:30] Conexion cerrada exitosamente en test cargando datos
+[2022-03-19 19:17:44] [ INFO ] [OdontologoServiceTest:41] Iniciando prueba de guardado y busqueda de odontologo
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:121] Nuevo odontologo guardado exitosamente
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:43] Conexion cerrada exitosamente
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:129] Odontologo encontrado exitosamente
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:72] Conexion cerrada exitosamente
+[2022-03-19 19:17:45] [ INFO ] [OdontologoServiceTest:55] Prueba de guardado y busqueda de odontologo terminada
+[2022-03-19 19:17:45] [ INFO ] [OdontologoServiceTest:60] Iniciando prueba de listado de todos los odontologos
+[2022-03-19 19:17:45] [ INFO ] [OdontologoServiceTest:70] Conexion exitosa desde test prueba listar todos odontologos
+[2022-03-19 19:17:45] [ INFO ] [OdontologoServiceTest:82] Conexion cerrada exitosamente desde test prueba listar todos odontologos
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:150] Se consultaron la cantidad total de odontologos
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-19 19:17:45] [ INFO ] [OdontologoDAOH2:100] Conexion cerrada exitosamente
+[2022-03-19 19:17:45] [ INFO ] [OdontologoServiceTest:91] Prueba de busqueda de todos odontologos terminada
+[2022-03-21 20:46:17] [ INFO ] [OdontologoServiceTest:17] Iniciando carga de datos
+[2022-03-21 20:46:21] [ INFO ] [OdontologoServiceTest:22] Conexion exitosa desde test cargando datos
+[2022-03-21 20:46:22] [ INFO ] [OdontologoServiceTest:30] Conexion cerrada exitosamente en test cargando datos
+[2022-03-21 20:46:22] [ INFO ] [OdontologoServiceTest:41] Iniciando prueba de guardado y busqueda de odontologo
+[2022-03-21 20:46:22] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-21 20:46:22] [ INFO ] [OdontologoDAOH2:121] Nuevo odontologo guardado exitosamente
+[2022-03-21 20:46:22] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-21 20:46:22] [ INFO ] [OdontologoDAOH2:43] Conexion cerrada exitosamente
+[2022-03-21 20:46:23] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-21 20:46:23] [ INFO ] [OdontologoDAOH2:129] Odontologo encontrado exitosamente
+[2022-03-21 20:46:23] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-21 20:46:23] [ INFO ] [OdontologoDAOH2:72] Conexion cerrada exitosamente
+[2022-03-21 20:46:23] [ INFO ] [OdontologoServiceTest:55] Prueba de guardado y busqueda de odontologo terminada
+[2022-03-21 20:46:23] [ INFO ] [OdontologoServiceTest:60] Iniciando prueba de listado de todos los odontologos
+[2022-03-21 20:46:23] [ INFO ] [OdontologoServiceTest:70] Conexion exitosa desde test prueba listar todos odontologos
+[2022-03-21 20:46:23] [ INFO ] [OdontologoServiceTest:82] Conexion cerrada exitosamente desde test prueba listar todos odontologos
+[2022-03-21 20:46:23] [ INFO ] [OdontologoDAOH2:112] Conexion con base de datos inicada
+[2022-03-21 20:46:24] [ INFO ] [OdontologoDAOH2:150] Se consultaron la cantidad total de odontologos
+[2022-03-21 20:46:24] [ INFO ] [OdontologoDAOH2:142] Se imprimieron odontologos por pantalla
+[2022-03-21 20:46:24] [ INFO ] [OdontologoDAOH2:100] Conexion cerrada exitosamente
+[2022-03-21 20:46:24] [ INFO ] [OdontologoServiceTest:91] Prueba de busqueda de todos odontologos terminada
+[2022-03-21 21:43:40] [ INFO ] [OdontologoServiceTest:22] Iniciando carga de datos
+[2022-03-21 21:43:42] [ INFO ] [OdontologoServiceTest:27] Conexion exitosa desde test cargando datos
+[2022-03-21 21:43:43] [ INFO ] [OdontologoServiceTest:35] Conexion cerrada exitosamente en test cargando datos
+[2022-03-21 21:43:43] [ INFO ] [OdontologoServiceTest:48] Iniciando prueba de guardado y busqueda de odontologo
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:145] Conexion con base de datos inicada
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:156] Nuevo odontologo guardado exitosamente
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:179] Se imprimieron odontologos por pantalla
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:56] Conexion cerrada exitosamente
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:145] Conexion con base de datos inicada
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:164] Odontologo encontrado exitosamente
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:179] Se imprimieron odontologos por pantalla
+[2022-03-21 21:43:43] [ INFO ] [OdontologoDAOH2:94] Conexion cerrada exitosamente
+[2022-03-21 21:43:43] [ INFO ] [OdontologoServiceTest:62] Prueba de guardado y busqueda de odontologo terminada
+[2022-03-21 21:43:43] [ INFO ] [OdontologoServiceTest:69] Iniciando prueba de listado de todos los odontologos
+[2022-03-21 21:43:43] [ INFO ] [OdontologoServiceTest:79] Conexion exitosa desde test prueba listar todos odontologos
+[2022-03-21 21:43:44] [ INFO ] [OdontologoServiceTest:98] Conexion cerrada exitosamente desde test prueba listar todos odontologos
+[2022-03-21 21:43:44] [ INFO ] [OdontologoDAOH2:145] Conexion con base de datos inicada
+[2022-03-21 21:43:44] [ INFO ] [OdontologoDAOH2:190] Se consultaron la cantidad total de odontologos
+[2022-03-21 21:43:44] [ INFO ] [OdontologoDAOH2:179] Se imprimieron odontologos por pantalla
+[2022-03-21 21:43:44] [ INFO ] [OdontologoDAOH2:131] Conexion cerrada exitosamente
+[2022-03-21 21:43:44] [ INFO ] [OdontologoServiceTest:109] Prueba de busqueda de todos odontologos terminada
+[2022-03-22 12:38:46] [ INFO ] [OdontologoServiceTest:22] Iniciando carga de datos
+[2022-03-22 12:38:50] [ INFO ] [OdontologoServiceTest:27] Conexion exitosa desde test cargando datos
+[2022-03-22 12:38:51] [ INFO ] [OdontologoServiceTest:35] Conexion cerrada exitosamente en test cargando datos
+[2022-03-22 12:38:51] [ INFO ] [OdontologoServiceTest:48] Iniciando prueba de guardado y busqueda de odontologo
+[2022-03-22 12:38:51] [ INFO ] [OdontologoDAOH2:145] Conexion con base de datos inicada
+[2022-03-22 12:38:51] [ INFO ] [OdontologoDAOH2:156] Nuevo odontologo guardado exitosamente
+[2022-03-22 12:38:51] [ INFO ] [OdontologoDAOH2:179] Se imprimieron odontologos por pantalla
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:56] Conexion cerrada exitosamente
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:145] Conexion con base de datos inicada
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:164] Odontologo encontrado exitosamente
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:179] Se imprimieron odontologos por pantalla
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:94] Conexion cerrada exitosamente
+[2022-03-22 12:38:52] [ INFO ] [OdontologoServiceTest:62] Prueba de guardado y busqueda de odontologo terminada
+[2022-03-22 12:38:52] [ INFO ] [OdontologoServiceTest:69] Iniciando prueba de listado de todos los odontologos
+[2022-03-22 12:38:52] [ INFO ] [OdontologoServiceTest:79] Conexion exitosa desde test prueba listar todos odontologos
+[2022-03-22 12:38:52] [ INFO ] [OdontologoServiceTest:98] Conexion cerrada exitosamente desde test prueba listar todos odontologos
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:145] Conexion con base de datos inicada
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:190] Se consultaron la cantidad total de odontologos
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:179] Se imprimieron odontologos por pantalla
+[2022-03-22 12:38:52] [ INFO ] [OdontologoDAOH2:131] Conexion cerrada exitosamente
+[2022-03-22 12:38:52] [ INFO ] [OdontologoServiceTest:109] Prueba de busqueda de todos odontologos terminada
